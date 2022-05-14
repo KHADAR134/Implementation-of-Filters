@@ -46,8 +46,8 @@ laplacian=cv2.Laplacian(image2,cv2.CV_64F)
 Display all the images with their respective filters.
 
 ## Program:
-### Developed By   : JAYASHREE RAO V
-### Register Number: 212220230023
+### Developed By   : SHAIK KHADAR BASHA
+### Register Number: 212220230045
 ```
 import cv2
 import matplotlib.pyplot as plt
@@ -156,30 +156,36 @@ plt.show()
 ### 1. Smoothing Filters
 i) Using Averaging Filter
 
-![image](https://user-images.githubusercontent.com/74660507/167992682-a28327f5-12b7-4c01-a8dd-034a9ffaf803.png)
+![DIP_6(1)](https://user-images.githubusercontent.com/75235233/168429990-55a35437-01db-4639-81dc-c5aa806f26b1.png)
+
 
 ii) Using Weighted Averaging Filter
 
-![image](https://user-images.githubusercontent.com/74660507/167992717-4c10f23c-95f3-4de6-8c13-75634cdf0d36.png)
+![DIP_6(2)](https://user-images.githubusercontent.com/75235233/168429994-fc7ce69f-767a-4b5a-be4e-79875ff9d26f.png)
+
 
 iii) Using Gaussian Filter
 
-![image](https://user-images.githubusercontent.com/74660507/167992759-fdf5a3a7-013e-4d1f-9eb6-003274651bd1.png)
+![DIP_6(3)](https://user-images.githubusercontent.com/75235233/168430005-5396d175-969d-4a17-9035-4a82c11295c7.png)
+
 
 iv) Using Median Filter
 
-![image](https://user-images.githubusercontent.com/74660507/167992794-af5e5a51-7720-41e6-a3c5-3c2d3f1948da.png)
+
+![DIP_6(4)](https://user-images.githubusercontent.com/75235233/168430019-fe75c60d-e477-44f2-9fda-d23973ea235f.png)
 
 
 ### 2. Sharpening Filters
 i) Using Laplacian Kernal
 
-![image](https://user-images.githubusercontent.com/74660507/167992873-2bbb44a7-b0a3-4cb5-92a7-30f6619ba5c5.png)
+![DIP_6(5)](https://user-images.githubusercontent.com/75235233/168430028-93a8b723-b823-4ba9-8246-20ac399cd8cc.png)
+
 
 ii) Using Laplacian Operator
 
+![DIP_6(6)](https://user-images.githubusercontent.com/75235233/168430030-09854b1c-ba7f-435b-be18-3552e43bfee1.png)
 
-![image](https://user-images.githubusercontent.com/74660507/167992902-3e54210b-6bd1-4c98-a5be-bcd046e86175.png)
+
 
 
 
